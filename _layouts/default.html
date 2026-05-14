@@ -84,6 +84,36 @@
     em {
       font-style: italic;
     }
+
+    /* Basic button style using Simple CSS */
+    .btn-custom {
+      display: inline-block;
+      padding: 0.6rem 1.2rem;
+      
+      /* Use Simple CSS's default accent color as the background */
+      background-color: var(--accent); 
+      
+      /* Use the page's native background for the text to ensure good contrast */
+      color: var(--bg) !important; 
+      
+      text-decoration: none;
+      border-radius: 4px; /* Formatted using Simple CSS */
+      font-weight: bold;
+      transition: opacity 0.2s ease, transform 0.1s ease;
+      margin: 0.5rem 0;
+    }
+    
+    /* Mouse-over effect */
+    .btn-custom:hover {
+      /* Reduces opacity to simulate lightening or darkening based on the theme */
+      opacity: 0.85; 
+      text-decoration: none;
+    }
+    
+    /* Click effect (Active) */
+    .btn-custom:active {
+      transform: scale(0.98);
+    }
     
     /* Light mode text softening — pure black is harsh with Lora at this size */
     @media (prefers-color-scheme: light) {
