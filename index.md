@@ -177,3 +177,11 @@ If it found you, it found you. That is enough.
 
 *Off the Grid — A TTRPG Resistance Reader*
 *Published anonymously. Copy freely.*
+
+[Raw Text Version](https://github.com/offgridttrpg/offgridttrpg.github.io/blob/f74cb4a2aaa9552fe30725653907ef10fe1c0131/index.md){: .btn-custom}
+
+[Awesome Libre Tabletop RPGs](https://github.com/offgridttrpg/awesome-libre-tabletop-rpgs){: .btn-custom}
+
+[The Computational Architecture of Free Culture Tabletop Roleplaying Games](https://github.com/offgridttrpg/free-culture-ttrpgs/){: .btn-custom}
+
+
