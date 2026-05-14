@@ -1,3 +1,8 @@
+---
+layout: default
+title: Off the Grid
+---
+
 # Off the Grid — A TTRPG Resistance Reader
 
 ## Preface — The Party Is Over
